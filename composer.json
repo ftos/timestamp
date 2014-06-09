@@ -9,7 +9,7 @@
         "bin-dir": "bin"
     },
     "autoload": {
-        "psr-4": { "Ftos\\Timestamp\\": "" }
+        "psr-4": { "Ftos\\Component\\Timestamp\\": "" }
     },
     "extra": {
         "branch-alias": {
