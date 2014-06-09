@@ -1,11 +1,11 @@
 <?php
 
-namespace Ftos\Timestamp\Model;
+namespace Ftos\Component\Timestamp\Model;
 
 /**
  * Interface DeleteableInterface
  *
- * @package Ftos\Timestamp\Model
+ * @package Ftos\Component\Timestamp\Model
  */
 interface DeleteableInterface
 {

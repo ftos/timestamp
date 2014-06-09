@@ -1,11 +1,11 @@
 <?php
 
-namespace Ftos\Timestamp\Model;
+namespace Ftos\Component\Timestamp\Model;
 
 /**
  * Interface TimestampInterface
  *
- * @package Ftos\Timestamp\Model
+ * @package Ftos\Component\Timestamp\Model
  */
 interface TimestampableInterface
 {
