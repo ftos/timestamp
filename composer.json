@@ -1,0 +1,19 @@
+{
+    "name": "ftos/timestamp",
+    "type": "library",
+    "license": "MIT",
+    "require": {
+        "php": ">=5.4"
+    },
+    "config": {
+        "bin-dir": "bin"
+    },
+    "autoload": {
+        "psr-4": { "Ftos\\Timestamp\\": "" }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "0.1.x-dev"
+        }
+    }
+}
