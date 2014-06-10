@@ -1,6 +1,7 @@
 {
     "name": "ftos/timestamp",
     "type": "library",
+    "description": "Simple timestamp interfaces.",
     "license": "MIT",
     "require": {
         "php": ">=5.4"
@@ -9,9 +10,8 @@
         "bin-dir": "bin"
     },
     "autoload": {
-        "psr-0": { "Ftos\\Component\\Timestamp\\": "" }
+        "psr-4": { "Ftos\\Component\\Timestamp\\": "src/" }
     },
-    "target-dir": "Ftos/Component/Timestamp",
     "extra": {
         "branch-alias": {
             "dev-master": "0.1-dev"
